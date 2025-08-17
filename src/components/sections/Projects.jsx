@@ -34,7 +34,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href="wander-ai-plum.vercel.app"
+                  href="https://wander-ai-plum.vercel.app"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project → 
@@ -76,7 +76,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="siphere.vercel.app/"
+                  href=" https://siphere.vercel.app/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
@@ -119,7 +119,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="flowice.vercel.app"
+                  href="https://flowice.vercel.app/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
