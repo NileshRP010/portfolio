@@ -49,7 +49,9 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2"> 3D Image-Gallery</h3>
+              <h3 className="text-xl font-bold mb-2">
+              Siphere
+              </h3>
               <p className="text-gray-400 mb-4">
                
               </p>
