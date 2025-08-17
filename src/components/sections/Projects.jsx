@@ -49,14 +49,17 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">
-              Siphere
+              <h3 className="text-xl font-bold mb-2">Siphere
               </h3>
               <p className="text-gray-400 mb-4">
+                Siphere is a decentralized platform that enables automated crypto investing through 
+                Systematic Investment Plans (SIPs) on Solana. Users can set up recurring investments in SOL or stablecoins, 
+                which are deployed into staking or lending strategies. The platform also offers optional insurance to
+                 protect against DeFi risks and execution failures.
                
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["JavaScript", "Tailwind", "HTML", "CSS"].map((tech, key) => (
+                {["Solana", "ReactJS", "TypeScript", "Rust"].map((tech, key) => (
                   <span
                     key={key}
                     className="
@@ -73,7 +76,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="siphere.vercel.app/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
@@ -89,13 +92,15 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">Netflix Clone</h3>
+              <h3 className="text-xl font-bold mb-2">Flowice</h3>
               <p className="text-gray-400 mb-4">
-                Full-stack Netflix clone with modern UI, 
-                user authentication, and real-time movie streaming.
+                Flowice is a decentralized invoice financing platform built
+                 on the Finternet using Solana. It enables businesses to tokenize 
+                 invoices and access global liquidity from investors through a secure,
+                 composable, and borderless financial marketplace.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Node.js", "JavaScript", "MongoDB", "Cloudinary"].map(
+                {["Node.js", "Solana", "ReactJS", "Tailwind"].map(
                   (tech) => (
                     <span
                       key={tech}
@@ -114,7 +119,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="flowice.vercel.app"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
@@ -153,7 +158,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center ">
                 <a
-                  href="#"
+                  href="https://chat-app-0s02.onrender.com/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
