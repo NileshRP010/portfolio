@@ -5,10 +5,8 @@ export const About = () => {
     "React",
     "Node.js",
     "javaScript",
-    "TailwindCSS",
     "MongoDB",
-    "Cloudinary",
-    
+    "SQL"
   ];
 
   const backendSkills = ["java", "DSA", "DBMS", "SQL"];
